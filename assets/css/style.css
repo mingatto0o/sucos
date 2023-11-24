@@ -1336,14 +1336,13 @@ section {
 }
 
 table {
- margin-left: 15%;
+ margin-left: 7%;
  width: 65%;
  border-collapse: collapse;
 }
 
 table, td {
  border: 0px;
- /* padding: 5px; */
  text-align: center;
 }
 
