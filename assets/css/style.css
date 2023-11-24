@@ -251,7 +251,7 @@ h6 {
   left: 15%;
   visibility: visible;
   margin-top: 35px;
-  margin-left: 100%;
+  margin-right: 70%;
 }
 
 @media (max-width: 1366px) {
